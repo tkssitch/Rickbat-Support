@@ -13,11 +13,23 @@
       "source": "MEGA",
       "url": "https://mega.nz/folder/kX8Exb5T#HmmySaWaV_oJ12AEbMnr5A",
       "archiveType": "folder",
-      "packageFile": "RTS Collection Addon",
-      "packageFolder": "RTS Collection Addon",
-      "installTo": "roms\\windows",
+      "packageFolder": "Final C&C",
+      "packageFile": "Final C&C",
+      "installTo": "",
       "statusCheck": "roms\\windows",
-      "show": true
+      "show": true,
+      "installRules": [
+        {
+          "source": "emulators",
+          "destination": "emulators",
+          "mode": "merge"
+        },
+        {
+          "source": "roms",
+          "destination": "roms",
+          "mode": "merge"
+        }
+      ]
     }
   ]
 }
