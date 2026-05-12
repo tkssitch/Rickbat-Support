@@ -6,9 +6,9 @@
       "name": "RTS Collection Addon",
       "type": "addon",
       "version": "1.0",
-      "locked": true,
-      "show": true,
-      "description": "Credit:Darren Payne; Mouse and/or Keyboard required; Adds the RickBat Lite RTS Collection folder and support files. This is a MEGA folder-based addon.",
+      "locked": false,
+      "show": false,
+      "description": "Credit: Darren Payne; Mouse and/or Keyboard required; Adds the RickBat Lite RTS Collection folder and support files. This is a MEGA folder-based addon.",
       "sizeBytes": 38601408753,
       "sizeLabel": "35.9 GB",
       "source": "MEGA",
@@ -36,9 +36,9 @@
       "name": "RTS2 Addon",
       "type": "addon",
       "version": "1.0",
-      "locked": true,
+      "locked": false,
       "show": true,
-      "description": "Credit:Darren Payne; Mouse and/or Keyboard required; Adds the RickBat Lite RTS2 addon folder and support files. This is a MEGA folder-based addon.",
+      "description": "Credit: Darren Payne; Mouse and/or Keyboard required; Adds the RickBat Lite RTS2 addon folder and support files. This is a MEGA folder-based addon.",
       "sizeBytes": 36840079606,
       "sizeLabel": "34.31 GB",
       "source": "MEGA",
@@ -57,6 +57,47 @@
         {
           "source": "roms",
           "destination": "roms",
+          "mode": "move"
+        }
+      ]
+    },
+    {
+      "category": "TeknoParrot",
+      "name": "Point Blank X",
+      "type": "addon",
+      "version": "1.0",
+      "locked": false,
+      "show": true,
+      "description": "Adds Point Blank X support files for RickBat Lite. This addon follows the RetroBat root folder structure.",
+      "sizeBytes": 0,
+      "sizeLabel": "TBD",
+      "source": "MEGA",
+      "url": "https://mega.nz/folder/BaN0xbIK",
+      "megaKeyId": "point_blank_x",
+      "archiveType": "folder",
+      "packageFolder": "Point Blank X",
+      "packageFile": "Point Blank X",
+      "installTo": "",
+      "statusCheck": "roms\\teknoparrot\\Point Blank X",
+      "installRules": [
+        {
+          "source": "emulators",
+          "destination": "emulators",
+          "mode": "move"
+        },
+        {
+          "source": "roms",
+          "destination": "roms",
+          "mode": "move"
+        },
+        {
+          "source": "system",
+          "destination": "system",
+          "mode": "move"
+        },
+        {
+          "source": "emulationstation",
+          "destination": "emulationstation",
           "mode": "move"
         }
       ]
