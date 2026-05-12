@@ -37,7 +37,7 @@
       "type": "addon",
       "version": "1.0",
       "locked": false,
-      "show": true,
+      "show": false,
       "description": "Credit:Darren Payne; Mouse and/or Keyboard required; Adds the RickBat Lite RTS2 addon folder and support files. This is a MEGA folder-based addon.",
       "sizeBytes": 36840079606,
       "sizeLabel": "34.31 GB",
