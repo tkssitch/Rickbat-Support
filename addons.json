@@ -87,6 +87,13 @@
           "destination": "roms",
           "mode": "move"
         }
+      ],
+      "collectionRules": [
+        {
+          "source": "collections\\custom-lightgun.2-teknoparrot.cfg",
+          "destination": "emulationstation\\.emulationstation\\collections\\custom-lightgun.2-teknoparrot.cfg",
+          "mode": "mergeUniqueLines"
+        }
       ]
     }
   ]
