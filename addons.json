@@ -86,6 +86,13 @@
       "collectionEntries": [
         "./roms/teknoparrot/Point Blank X.teknoparrot"
       ],
+      "esSettingsPreset": "TeknoParrotLightGun",
+      "esSettingsTargets": [
+        "live",
+        "master:Light Gun",
+        "master:Light Gun - Mame 16x9",
+        "master:Rickbat"
+      ],
       "installRules": [
         {
           "source": "roms",
