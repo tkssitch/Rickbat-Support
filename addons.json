@@ -81,6 +81,11 @@
       "packageFile": "Point Blank X",
       "installTo": "",
       "statusCheck": "roms\\teknoparrot\\Point Blank X",
+      "collectionSystem": "TeknoParrot",
+      "collectionGenre": "Light Gun",
+      "collectionEntries": [
+        "./roms/teknoparrot/Point Blank X.teknoparrot"
+      ],
       "installRules": [
         {
           "source": "roms",
