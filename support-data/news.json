@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "welcome",
+      "show": true,
+      "priority": 100,
+      "title": "RickBat Manager support data online",
+      "message": "RickBat Manager can now read public support data from GitHub.",
+      "type": "info"
+    }
+  ]
+}
