@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "project": "RickBat Manager",
+  "channel": "stable",
+  "lastUpdated": "2026-05-19",
+  "files": {
+    "news": "support-data/news.json",
+    "tools": "support-data/tools.json",
+    "collections": "support-data/collections.json",
+    "esSettingsPresets": "support-data/es-settings-presets.json"
+  },
+  "notes": "Public support data for RickBat Manager. No ROMs, emulator binaries, passwords, tokens, private keys, or copyrighted game files."
+}
