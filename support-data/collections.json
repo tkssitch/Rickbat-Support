@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "light-gun",
+      "name": "Light Gun",
+      "collectionFile": "emulationstation/.emulationstation/collections/custom-lightgun.cfg",
+      "description": "Default custom collection target for light gun content."
+    },
+    {
+      "id": "teknoparrot-lightgun",
+      "name": "TeknoParrot Light Gun",
+      "collectionFile": "emulationstation/.emulationstation/collections/custom-teknoparrot-lightgun.cfg",
+      "description": "Optional custom collection target for TeknoParrot light gun content."
+    }
+  ]
+}
