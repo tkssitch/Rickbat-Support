@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "presets": [
+    {
+      "id": "low-end",
+      "name": "Low-End PCs",
+      "description": "Performance-oriented defaults for weaker systems.",
+      "settings": [
+        {
+          "name": "global.video_driver",
+          "value": "d3d11"
+        },
+        {
+          "name": "mame.mame_video_driver",
+          "value": "d3d"
+        }
+      ]
+    },
+    {
+      "id": "mid-high",
+      "name": "Mid to High-End PCs",
+      "description": "Default performance profile for stronger systems.",
+      "settings": []
+    }
+  ]
+}
