@@ -4,7 +4,7 @@
     {
       "id": "support-online",
       "show": true,
-      "priority": 100,
+      "priority": 90,
       "title": "RickBat Manager support data online",
       "message": "Detail video going over changes and improvements will be available in couple days as of 5/20/26 Thank you.",
       "type": "info"
@@ -12,7 +12,7 @@
     {
       "id": "rickbat-v4",
       "show": true,
-      "priority": 90,
+      "priority": 100,
       "title": "RickBat Manager v4 is here",
       "message": "Detail video going over changes and improvements will be available in couple days as of 5/20/26 Thank you.",
       "type": "info"
