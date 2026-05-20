@@ -9,7 +9,7 @@
       "message": "RickBat Manager can now read public support data from GitHub.",
       "type": "info"
     }
-        {
+    {
       "id": "welcome",
       "show": true,
       "priority": 100,
