@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "items": [
     {
-      "id": "support-online",
-      "show": true,
-      "priority": 90,
-      "title": "RickBat Manager support data online",
-      "message": "Detail video going over changes and improvements will be available in couple days as of 5/20/26 Thank you.",
-      "type": "info"
-    },
-    {
       "id": "rickbat-v4",
       "show": true,
       "priority": 100,
       "title": "RickBat Manager v4 is here",
       "message": "Detail video going over changes and improvements will be available in couple days as of 5/20/26 Thank you.",
+      "type": "info"
+    },
+    {
+      "id": "Do Not Update",
+      "show": true,
+      "priority": 90,
+      "title": "RickBat Manager v4 is here",
+      "message": "When it's safe to update Retrobat to next version I will post here and in discord.",
       "type": "info"
     }
   ]
