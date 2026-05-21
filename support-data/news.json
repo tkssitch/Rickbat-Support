@@ -5,6 +5,14 @@
       "id": "rickbat-v4",
       "show": true,
       "priority": 100,
+      "title": "Fix is coming",
+      "message": "Issues with Logging into Mega from app is being fixed, thanks.",
+      "type": "info"
+    },
+    {
+      "id": "rickbat-v4",
+      "show": true,
+      "priority": 100,
       "title": "RickBat Manager v4 is here",
       "message": "Detail video going over changes and improvements will be available in couple days as of 5/20/26 Thank you.",
       "type": "info"
