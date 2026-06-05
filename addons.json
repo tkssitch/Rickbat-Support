@@ -2,68 +2,6 @@
   "testerPasswordHash": "48ef5945ebfb47e553a30fa08d5f19aeb3f3dc200656a6e3c27f9fd03dc9c630",
   "addons": [
     {
-      "category": "PC Games",
-      "name": "RTS Collection Addon",
-      "type": "addon",
-      "version": "1.0",
-      "locked": false,
-      "show": true,
-      "description": "Credit: Darren Payne; Mouse and/or Keyboard required; Adds the RickBat Lite RTS Collection folder and support files. This is a MEGA folder-based addon.",
-      "sizeBytes": 38601408753,
-      "sizeLabel": "35.9 GB",
-      "source": "MEGA",
-      "url": "https://mega.nz/folder/kX8Exb5T",
-      "megaKeyId": "rts_collection",
-      "archiveType": "folder",
-      "packageFolder": "Final C&C",
-      "packageFile": "",
-      "installTo": "",
-      "statusCheck": "roms\\windows\\Final C&C",
-      "installRules": [
-        {
-          "source": "emulators",
-          "destination": "emulators",
-          "mode": "move"
-        },
-        {
-          "source": "roms",
-          "destination": "roms",
-          "mode": "move"
-        }
-      ]
-    },
-    {
-      "category": "PC Games",
-      "name": "RTS2 Addon",
-      "type": "addon",
-      "version": "1.0",
-      "locked": false,
-      "show": true,
-      "description": "Credit: Darren Payne; Mouse and/or Keyboard required; Adds the RickBat Lite RTS2 addon folder and support files. This is a MEGA folder-based addon.",
-      "sizeBytes": 36840079606,
-      "sizeLabel": "34.31 GB",
-      "source": "MEGA",
-      "url": "https://mega.nz/folder/1CcXBCwZ",
-      "megaKeyId": "rts2",
-      "archiveType": "folder",
-      "packageFolder": "RTS2add-on",
-      "packageFile": "",
-      "installTo": "",
-      "statusCheck": "roms\\windows\\RTS2add-on",
-      "installRules": [
-        {
-          "source": "emulators",
-          "destination": "emulators",
-          "mode": "move"
-        },
-        {
-          "source": "roms",
-          "destination": "roms",
-          "mode": "move"
-        }
-      ]
-    },
-    {
       "category": "TeknoParrot",
       "name": "Point Blank X",
       "type": "addon",
